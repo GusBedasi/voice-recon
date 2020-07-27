@@ -18,3 +18,9 @@ de se falar bloco de notas, para abrir o mesmo.
 
 ## Aprendendo
 Projeto feito só para utilização da lib.
+
+## Créditos
+
+Edit: Créditos a esse post do medium:
+
+https://medium.com/brasil-ai/reconhecimento-voz-python-35a5023767ca
